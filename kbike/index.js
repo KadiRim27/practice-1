@@ -1,7 +1,4 @@
-function calcAge(a, b) {
-
-    return a + b;
+let number = 0;
+for (number = 0; number < 9; number++) {
+    alert(number);
 }
-
-let Age = calcAge(5, 1);
-alert(Age);
